@@ -7,12 +7,13 @@ This project was a password generator to provide a new password each time you us
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
 
 ![Screenshot](./assets/Screenshot.png)
 
+
+## Credits
+
+Got aid for the project from : https://w3schools.invisionzone.com/topic/25095-javascript-password-generator/
 
 ## License
 
