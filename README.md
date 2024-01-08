@@ -7,6 +7,7 @@ This project was a password generator to provide a new password each time you us
 
 ## Usage
 
+[Challenge-3URL](https://aejantz2015.github.io/challenge-3/)
 
 ![Screenshot](./assets/Screenshot.png)
 
